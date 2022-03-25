@@ -13,17 +13,14 @@ in the radiation treatment planning system Eclipse
 Thereby, the goal was to make the biological dose correction topologically visible by conversion
 of the entire 3D dose distribution, thereby providing an additional tool for plan evaluation.
 # Results:
-========
 In C#, a script for the biological dose correction of the 3D dose matrix was generated ("EB_BioAL").
 The script was implemented and successfully tested using real life patient cases.
 # Conclusion:
-===========
 The above mentioned software was developed and implemented.
 Tests were performed on several patient plans
 and confirm the correct functioning of the ESAPI script "EB_BioAL".
 A clinical test run will be started.
 # Remarks, Licences, Limitations:
-===============================
 The content of this repository ("EB_BioAL") is not allowed for clinical use!
 It is only for the purpose of publication!
 The copyright belongs exclusively to the author of "EB_BioAL"!
