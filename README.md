@@ -25,3 +25,5 @@ It is only for the purpose of publication!
 The copyright belongs exclusively to the author of "EB_BioAL"!
 Germany, Neuruppin, 2022/03/25
 Dr. Eyck Blank
+
+[![DOI](https://zenodo.org/badge/474038394.svg)](https://zenodo.org/badge/latestdoi/474038394)
