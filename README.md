@@ -3,7 +3,6 @@
 # ESAPI script "EB_BioAL"
 ========================
 # Background:
-===========
 In radiation oncology, different fractionation schemes
 can be compared converting the actual dose into the equivalent dose in 2 Gy fractions (EQD2).
 The focus of the current project was to create an ESAPI script (Eclipse Scripting API)
