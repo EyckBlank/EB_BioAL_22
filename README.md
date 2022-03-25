@@ -23,11 +23,6 @@ The above mentioned software was developed and implemented.
 Tests were performed on several patient plans
 and confirm the correct functioning of the ESAPI script "EB_BioAL".
 A clinical test run will be started.
-Technicals
-==========
-For proper operation the path to the ExcelFile "EB_BioAL.xlsx" must be adapted!
-See in "EB_BioAL.cs", line 837.
-See 837 oWB = oXL.Workbooks.Open("Q:/ESAPI/Plugins/EB_BioAL/EB_BioAL.xlsx")
 Remarks, Licences, Limitations:
 ===============================
 The content of this repository ("EB_BioAL") is not allowed for clinical use!
